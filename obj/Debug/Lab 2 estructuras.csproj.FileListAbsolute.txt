@@ -1,0 +1,10 @@
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\bin\Debug\Lab 2 estructuras.exe.config
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\bin\Debug\Lab 2 estructuras.exe
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\bin\Debug\Lab 2 estructuras.pdb
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\bin\Debug\Newtonsoft.Json.dll
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\bin\Debug\Newtonsoft.Json.xml
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\obj\Debug\Lab 2 estructuras.csproj.AssemblyReference.cache
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\obj\Debug\Lab 2 estructuras.csproj.CoreCompileInputs.cache
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\obj\Debug\Lab 2 estructuras.csproj.CopyComplete
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\obj\Debug\Lab 2 estructuras.exe
+D:\visual studi\2do semestre 2024\Lab 2 estructuras\obj\Debug\Lab 2 estructuras.pdb
